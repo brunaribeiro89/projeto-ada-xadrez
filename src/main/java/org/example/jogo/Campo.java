@@ -7,6 +7,9 @@ public class Campo {
     public Campo(char simbolo) {
         this.simbolo = simbolo;
     }
+    public Campo() {
+        this.simbolo = ' ';
+    }
     public char getSimbolo() {
         return simbolo;
     }

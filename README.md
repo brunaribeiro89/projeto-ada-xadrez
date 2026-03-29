@@ -1,1 +1,1 @@
-# projeto-ada-xadrez
+# projeto-ada
